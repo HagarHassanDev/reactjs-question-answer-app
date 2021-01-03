@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f6f4f9;
+}
+
+.App {
+    text-align: center;
+}
+
+.title {
+    color: #4b22a1;
+}
+
+.question-wapper {
+    border: 2px solid #eee;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.btn-purple {
+    background-color: #4b22a1;
+}
+
+.card {
+    text-align: left;
+    width: 50%;
+    margin: 10px auto;
+}
+
+.question-header,
+.question-header:focus {
+    outline: none;
+    border: none;
+}
+
+.card-body {
+    background-color: #f2f2f2;
+}

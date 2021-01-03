@@ -1,0 +1,1 @@
+export const GET_DOMAINS_URL = 'https://apis.eduedges.com/api/ontology/domains';
